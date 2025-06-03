@@ -34,3 +34,6 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 ### 📫 How to reach me
 - Email: zeusmadan97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/madan-pandey-091447307/
+
+### ⚡ Fun fact
+I love learning new tech by building small projects & teaching others what I learn 🚀
