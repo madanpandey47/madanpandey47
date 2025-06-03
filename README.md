@@ -22,13 +22,13 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 
 
 ### 🌱 I’m currently learning
-- JavaScript 
-- React.js 
+- C++
+- React.js
+  
 ### 🛠 Tech Stack
 - 💻 Languages: C, C++, JavaScript
 - 🌐 Frontend: HTML, CSS, React.js(learning)
 - 🛢 Backend: Node.js (learning)
-
 - ⚙️ Tools: Git, GitHub, VS Code
 
 ### 📫 How to reach me
