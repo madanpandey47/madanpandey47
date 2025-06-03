@@ -13,7 +13,9 @@
 
 ## Hi there 👋 I'm Madan Pandey
 
-Welcome. Tech and Coding enthusiast with continuous learning.Here's a little about me:
+Welcome. I am a passionate and driven technology enthusiast committed to continuous learning and professional excellence in software development.
+
+.Here's a little about me:
 
 ---
 
