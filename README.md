@@ -13,7 +13,7 @@
 
 ## Hi there 👋 I'm Madan Pandey
 
-Welcome to my GitHub profile! I'm passionate about technology, development, and continuous learning. Here's a little about me:
+Welcome. Tech and Coding enthusiast with continuous learning.Here's a little about me:
 
 ---
 
