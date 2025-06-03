@@ -13,7 +13,7 @@
 
 ## Hi there 👋 I'm Madan Pandey
 
-Welcome. I am a passionate and driven technology enthusiast committed to continuous learning and professional excellence in software development.
+ Welcome. I am a passionate and driven technology enthusiast committed to continuous learning and professional excellence in software development.
 
 .Here's a little about me:
 
@@ -38,4 +38,4 @@ Welcome. I am a passionate and driven technology enthusiast committed to continu
 - LinkedIn: https://www.linkedin.com/in/madan-pandey-091447307/
 
 ### ⚡ Fun fact
-I love learning new tech by building small projects & teaching others what I learn 🚀
+ I love learning new tech by building small projects & teaching others what I learn 🚀
