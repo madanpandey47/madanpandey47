@@ -1,5 +1,3 @@
-## 🛠 Tech Stack
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -10,14 +8,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-## Hi there 👋 I'm Madan Pandey
-
- Welcome. I am a passionate and driven technology enthusiast committed to continuous learning and professional excellence in software development.
-
-.Here's a little about me:
-
----
 
 ### 🔭 I’m currently working on
 - Web Development Projects (HTML, CSS, JavaScript, React)
@@ -36,6 +26,3 @@
 ### 📫 How to reach me
 - Email: zeusmadan97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/madan-pandey-091447307/
-
-### ⚡ Fun fact
- I love learning new tech by building small projects & teaching others what I learn 🚀
