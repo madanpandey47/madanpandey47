@@ -16,6 +16,7 @@
 ### 🌱 I’m currently learning
 - C++
 - React.js
+- .NET
   
 ### 🛠 Tech Stack
 - 💻 Languages: C, C++, JavaScript
