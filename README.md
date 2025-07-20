@@ -17,9 +17,10 @@
 - C++
 - React.js
 - .NET
+- C#
   
 ### 🛠 Tech Stack
-- 💻 Languages: C, C++, JavaScript
+- 💻 Languages: C, C++, JavaScript, C#
 - 🌐 Frontend: HTML, CSS, React.js(learning)
 - 🛢 Backend: Node.js (learning)
 - ⚙️ Tools: Git, GitHub, VS Code
