@@ -22,7 +22,7 @@
 ### 🛠 Tech Stack
 - 💻 Languages: C, C++, JavaScript, C#
 - 🌐 Frontend: HTML, CSS, React.js(learning)
-- 🛢 Backend: Node.js (learning)
+- 🛢 Backend: .NET (learning)
 - ⚙️ Tools: Git, GitHub, VS Code
 
 ### 📫 How to reach me
